@@ -59,6 +59,7 @@ INSTALLED_APPS = [
     "drf_yasg",
     "captcha",
     'channels',
+    'gokz.apps.GokzConfig'
 ]
 
 MIDDLEWARE = [
